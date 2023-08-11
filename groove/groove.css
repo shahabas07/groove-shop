@@ -1,0 +1,118 @@
+
+body{
+    background-image: url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/groove-bg%5B1%5D.png);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0%;
+    margin-bottom: 0%;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+.button{
+    background-color: rgb(62, 228, 62);
+    color: wheat;
+    font-size: larger;
+    padding: 23px 27px ;
+    border: wheat;
+    border-color: transparent;
+    font-size: large;
+}
+
+header{
+    background-color: black;
+}
+h2{
+    
+    font-size: xx-large;
+}
+.instore{
+    padding-top: 250px;
+}
+
+table,tr,td,th{
+    border:1px solid black;
+    border-collapse: collapse;
+}    
+
+thead th{
+    padding: 20px;
+    background-color: rgb(68, 187, 68);
+    color: aliceblue;
+    font-size: large;
+}
+  
+ 
+
+td{
+    padding: 10px;
+}
+button{
+    text-align: center;
+    background-color: rgb(75, 221, 75);
+    margin-top: 5px;
+    font-size: 20px;
+    width: 150px;
+    padding: 10px 10px;
+    border: 0;
+    border-color:greenyellow ;
+
+
+}
+
+.num{
+    font-size: 20px}
+
+.ew{
+    width: 50px;
+    height: 25px;
+}
+
+strong{
+    font-size: large;
+}
+footer{
+    background-color: black;
+    color: wheat;
+}
+
+.padd td{
+    padding: 30px;
+    text-align: center;
+}
+
+.padd:hover{
+    background-color: rgb(153, 241, 241);
+}  
+#wel{
+    margin-top: 15%;
+}
+
+.i{
+    width: 140px;
+}
+
+footer{
+    margin-bottom: 0;
+
+}
+
+.sect{
+    background-position: center;
+}
+
+table{
+    margin-left: 18px;
+}
